@@ -3,16 +3,14 @@ About
 
 This package contains Ethereum smart contracts and command line toolchain for launching and managing token sales.
 
-.. image:: https://badges.gitter.im/TokenMarketNet/ico.svg
-   :alt: Join the chat at https://gitter.im/TokenMarketNet/ico
-   :target: https://gitter.im/TokenMarketNet/ico?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+see github.com/pages
 
 Quick links
 ===========
 
-`STO - security token tool chain <https://docs.tokenmarket.net>`_ - a lot of new development work happens in this security token specific project that users smart contracts from this repository
+`STO - security token tool chain avaliable soon'
 
-`TokenMarket website <https://tokenmarket.net>`_
+`USpool.org website <https://johnjpruettii.org."
 
 `Github issue tracker and source code <https://github.com/tokenmarketnet/ico>`_
 
@@ -58,7 +56,7 @@ We also have third party token sales using these smart contracts
 
 Support
 =======
-
+Request:
 TokenMarket can be a launch and hosting partner for your token sale. We offer advisory, legal, technical and marketing services. For more information see `TokenMarket fundraising services <https://tokenmarket.net/>`_. 
 
 Community support is available on the best effort basis - your mileage may vary. To get the most of the community support we expect you to be on a senior level of Solidity, Python and open source development. `Meet us at the Gitter support chat <https://gitter.im/TokenMarketNet/ico>`_.
@@ -67,13 +65,4 @@ Community support is available on the best effort basis - your mileage may vary.
 Audit reports
 =============
 
-Some public audit reports available for some revisions of this codebase:
-
-* `For Atonomi by LevelK, May 2018 <https://drive.google.com/file/d/0B6r9uCgN_xpJeUdRaGxaQ3VrTVBiekg5V25aUEUycDVZWlhn/view?usp=sharing>`_
-
-* `For Dala by Iosiro, October 2017 <https://www.iosiro.com/dala-token-sale-audit>`_
-
-* `For Civic by Zeppelin, June 2017 <https://medium.com/@ZeppelinOrg/a91754ab6e4b>`_
-
-More audit reports available on a request.
-
+pruettiijohn@gmail.com
